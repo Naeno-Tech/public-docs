@@ -21,4 +21,4 @@ Open Settings in the app and tap Restore Purchases.
 Subscriptions are managed by Apple, in the iOS Settings app under your name → Subscriptions.
 
 ### Privacy
-See our [Privacy Policy](privacy)
+See our [Privacy Policy](https://github.com/Naeno-Tech/public-docs/blob/main/rss-player/privacy.md)

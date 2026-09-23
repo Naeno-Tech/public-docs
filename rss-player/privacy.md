@@ -3,7 +3,7 @@ title: RSSPlayer Privacy Policy
 ---
 
 
-**Last updated: 2026-09-**
+**Last updated: 2026-09-19**
 
 RSSPlayer is made by Naeno Tech. This policy explains what the app collects, what it doesn't, and who else is involved.
 
